@@ -17,5 +17,6 @@ public class HelloGitHub
         System.out.println("wuxin");
         System.out.println("wee");
         System.out.println("wewefew");
+        System.out.println("C---");
     }
 }
